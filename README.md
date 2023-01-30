@@ -7,7 +7,7 @@ tags:
   - typescript
 ---
 
-# Vite + React + Typescript Example
+# Vite + React + Typescript + Descope Example
 This example utilises vite for static site generation
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/duzltn?referralCode=OH27A5)

@@ -2,18 +2,23 @@
 title: Vite React (TS)
 description: Example Vite app that is configured with React and Typescipt
 tags:
+  - descope
+  - enchanted link
+  - passkeys
   - vite
   - react
   - typescript
+  
 ---
 
-# Vite + React + Typescript + Descope Example
-This example utilises vite for static site generation
+# Descope + Vite + React + Typescript Example
+This example utilises Descope service for AuthN and vite for static site generation
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/duzltn?referralCode=OH27A5)
 
 ## ✨ Features
 
+- Descope login/signup using both Enchanted link and Passkeys
 - Vite
 - React
 - TypeScript

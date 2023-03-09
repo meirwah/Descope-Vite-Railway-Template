@@ -7,7 +7,7 @@ import { Descope, SignUpOrInFlow} from '@descope/react-sdk'
 const AppRoot = () => {
   return (
       <AuthProvider
-          projectId="P2L5rJfqvUOTIQ1zhMss2fqJdhoV"
+          projectId="P2MgDkFpx23izEfMcbjU2wctu0Iz"
       >
        <App />
       </AuthProvider>

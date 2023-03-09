@@ -9,8 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@descope/react-sdk": "^0.0.52-alpha.29",
-    "@descope/web-component": "^0.1.0-alpha.39",
+    "@descope/react-sdk": "^1.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },

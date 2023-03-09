@@ -1,5 +1,5 @@
 ---
-title: Vite React (TS)
+title: Descope Vite React
 description: Example Vite app that is configured with React and Typescipt
 tags:
   - descope

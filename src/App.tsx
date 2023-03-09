@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
-import { AuthProvider, useAuth } from '@descope/react-sdk'
+import { AuthProvider } from '@descope/react-sdk'
 import { Descope, SignUpOrInFlow} from '@descope/react-sdk'
 
 const AppRoot = () => {

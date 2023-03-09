@@ -22,6 +22,7 @@ function App() {
     <div className="App">
 
       <header className="App-header">
+        <p>This is a sign up or in demo using Descope Enchanted link and Passkeys</p>
         <Descope
             flowId="sign-up-or-in"
             onSuccess={(e) => window.location.reload()}

@@ -14,7 +14,7 @@ tags:
 # Descope + Vite + React + Typescript Example
 This example utilises Descope service for AuthN and vite for static site generation
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/stN5WQ?referralCode=dsf6rb)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/J6fn16?referralCode=dsf6rb)
 
 ## ✨ Features
 
